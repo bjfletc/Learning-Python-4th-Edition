@@ -1,0 +1,7 @@
+win32
+1267650600228229401496703205376
+Spam!Spam!Spam!Spam!Spam!Spam!Spam!Spam!
+
+# output from script1.py
+# $ python script1.py > saveit.txt
+# shell redireciton
