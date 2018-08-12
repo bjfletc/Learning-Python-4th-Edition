@@ -15,4 +15,16 @@ automatically:
 a = 3                   # Name created
 b = 4
 
-print(str(a) + " & " + str(b) + "\n")
+print(str(a) + " & " + str(b) + "\n")   # a = 3 & b = 4
+
+a + 1, a - 1            # Addition (3 + 1), subtraction (3 - 1)
+
+print("\n" + str(a) + "\n")
+
+b * 3, b / 2            # Multiplication (4 * 3), division (4 / 2)
+
+print("\n" + str(b))
+
+a % 2, b ** 2           # Modulus (remainder), power (4 ** 2)
+
+print("\n a: " + str(a) + " b: " + str(b) + "\n")
